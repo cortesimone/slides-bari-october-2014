@@ -1,7 +1,7 @@
 # OSM for developers
 ## or, how I stopped worrying about layers, and love the database
 
-A presentation for OpenGeoData by Simone Cortesi (@simonecortesi).
+A presentation for OpenGeoData by Simone Cortesi ([@simonecortesi](http://twitter.com/simonecortesi)).
 
 Bari - 8th November 2014
 
